@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Mirage",
+    "photo": "/de_mirage.png",
+    "imageWidth": 1024,
+    "imageHeight": 1024,
+    "markers": [
+      { "lat": 100, "lng": 200, "text": "Точка А" },
+      { "lat": 150, "lng": 300, "text": "Точка B" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Dust2",
+    "photo": "/de_dust2.png",
+    "imageWidth": 1024,
+    "imageHeight": 1024,
+    "markers": []
+  },
+  {
+    "id": 3,
+    "title": "Nuke",
+    "photo": "/de_nuke.png",
+    "imageWidth": 1024,
+    "imageHeight": 1024,
+    "markers": []
+  }
+]

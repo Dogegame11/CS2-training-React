@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Mirage",
+        "image": "https://images.steamusercontent.com/ugc/2383035539727634815/E4760E0852CF618E337241A8A74CA4898FA001B0/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+        "link": "/mirage"
+        
+    },
+    {
+        "title": "Dust2",
+        "image": "https://upload.wikimedia.org/wikipedia/ru/6/6f/Dust_II_%28CS-GO%29.jpg"
+        ,"link": "/Dust"
+    },
+    {
+        "title": "Ancient",
+        "image": "https://images.steamusercontent.com/ugc/2042997274847133077/8534B50A5A691EE7D3F1500E1CF03D41A37D03AC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+        ,"link": "/Ancient"
+    },
+    {
+        "title": "Inferno",
+        "image": "https://i.redd.it/new-cs2-inferno-v0-88geic50329b1.png?width=1920&format=png&auto=webp&s=56d796f92f29b5539735e4ff5edf60a124424083"
+        ,"link": "/Inferno"
+    },
+    {
+        "title": "Nuke",
+        "image": "https://daddyskins.com/blog/wp-content/uploads/2024/09/nuke-cs2-map.jpg"
+        ,"link": "/Nuke"
+    }
+]
